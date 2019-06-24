@@ -53,4 +53,4 @@ You should be writing code in `src/` directory.
 
 ### Demo link
 
-Add link here: `[DEMO LINK](https://ronyshchenko.github.io/react_exam/)`
+Add link here: https://ronyshchenko.github.io/react_exam/
